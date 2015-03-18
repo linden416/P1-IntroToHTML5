@@ -1,0 +1,56 @@
+body {
+    color: #666;
+    margin: 20px;
+    display: flex;
+    font-family: "Lucida Grande", sans-serif;
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 3.2em;
+}
+
+.top-buffer {
+    margin-top:20px;
+}
+
+.subtitle {
+    color: #f07c17;
+    font-size: 1.65em;
+    font-weight: 700;
+}
+
+.featurebox {
+    margin-top: 30px;
+    border: 1px solid #ccc;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-bottom: 25px;
+    line-height: 2.25;
+}
+
+.leftside {
+    margin-bottom: 20px;
+}
+
+.list-spacer {
+    padding-top: 15px;
+}
+
+.contentbox {
+    margin-top: 0;
+    padding-right: 25px;
+}
+
+.contentbox h2 {
+    margin-top: 0;
+}
+
+.contentbox p {
+    line-height: 2.25;
+}
+
+.text-spacer {
+    padding-top: 20px;
+}
